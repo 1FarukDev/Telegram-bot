@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# dotenv files (keep your API keys safe!)
+.env
+*.env
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Python IDEs
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Pytest cache
+.pytest_cache/
+
+# pip logs
+pip-log.txt
+
+# mypy cache
+.mypy_cache/
+
+# coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
